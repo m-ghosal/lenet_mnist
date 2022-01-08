@@ -11,7 +11,7 @@
 
 ## How to run the project ##
 The code (a .py file) can be run through the built-in terminal in macOS, given that all the libraries are installed
-The slideshow can be accessed through Google Slides
+The slideshow can be accessed by downloading the pdf of the slides
 
 ## Links I used in my research ##
 https://www.analyticsvidhya.com/blog/2021/03/the-architecture-of-lenet-5/
