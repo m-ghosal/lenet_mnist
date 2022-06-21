@@ -1,5 +1,5 @@
 # An MNIST Classifier using LeNet-5 architecture
-## In this project, I trained an MNIST Classifier using a LeNet model. The steps I followed to complete this project are as follows:##
+## In this project, I trained an MNIST Classifier using a LeNet model. The steps I followed to complete this project are as follows: ##
 * Familiarized myself with the MNIST database, and went through some of the 60,000 training images and 10,000 testing images
 * Researched thoroughly about the LeNet structure, and how to code LeCun's model efficiently
 * Researched about how to load and customize training and validation datasets and about how to train and validate a CNN
